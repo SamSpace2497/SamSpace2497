@@ -18,7 +18,6 @@ I am a passionate programmer. I love to write code.
 - 💼 I have a Bachelor's degree in Civil Engineering.
 - 💼 I also have a PG Diploma in Advanced Computing from AIT(YCP), Mumbai.
 - ⚡ My interests are in Fullstack Web Development.
-- 🧠 Currently learning about advanced Data Structures & Algorithms.  
 
 <!-- <img align="left" alt="GitHub" width="240" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">  -->
 <img align="right" alt="SP" width="240" src="https://i.postimg.cc/fLS3sRDH/New-file-1.gif">
