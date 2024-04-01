@@ -14,8 +14,8 @@ I am a passionate programmer. I love to write code.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="mailto:patil.shubham@2497.com">Shubham
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  <a href="mailto:patil.shubham@2497.com">
+    <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=red" />        
   </a>&nbsp;&nbsp;
 </p>
 
